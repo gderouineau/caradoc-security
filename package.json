@@ -1,0 +1,34 @@
+{
+    "name": "caradoc-security",
+    "description": "security service for caradoc framework",
+    "version": "0.1.0",
+    "author": {
+    "name": "guillaume derouineau",
+    "email": "admin@caradoc.fr"
+    },
+    "dependencies": {
+    "express": "3.4.*",
+    "connect": "2.9.0"
+    },
+    "keywords": [
+    "caradoc",
+    "frameword",
+    "web",
+    "api",
+    "router",
+    "security",
+    "app",
+    "router",
+    "server"
+    ],
+    "main": "index",
+    "readmeFilename": "Readme.md",
+    "_id": "caradoc-security@0.1.O",
+    "_from": "caradoc-security@",
+    "homepage" : "http://caradoc.fr",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/gderouineau/caradoc.git"
+    }
+
+}
