@@ -1,14 +1,13 @@
 {
     "name": "caradoc-security",
-    "description": "security service for caradoc framework",
-    "version": "0.1.0",
+    "description": "security middleware for caradoc framework",
+    "version": "0.3.0",
     "author": {
     "name": "guillaume derouineau",
     "email": "admin@caradoc.fr"
     },
     "dependencies": {
-    "express": "3.4.*",
-    "connect": "2.9.0"
+
     },
     "keywords": [
     "caradoc",
